@@ -4,3 +4,5 @@
 
 /This is a visualization and monitoring UI developed using the LiveCharts plugin package.C#
 
+
+![我的图片](image/1.png)
