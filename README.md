@@ -5,4 +5,4 @@
 /This is a visualization and monitoring UI developed using the LiveCharts plugin package.C#
 
 
-![images](https://github.com/junhaoceng/LiveChartsWPF/Image/1.png)
+![images]([https://github.com/junhaoceng/LiveChartsWPF/Image/1.png](https://github.com/junhaoceng/LiveChartsWPF/blob/main/Image/1.png))
