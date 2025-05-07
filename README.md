@@ -6,3 +6,5 @@
 
 [![image](https://github.com/junhaoceng/LiveChartsWPF/blob/main/Image/1.png)
 [![image](https://github.com/junhaoceng/LiveChartsWPF/blob/main/Image/2.png)
+[![image](https://github.com/junhaoceng/LiveChartsWPF/blob/main/Image/3.png)
+
